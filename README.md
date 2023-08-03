@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Razim</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">On a journey of perpetual learning and limitless growth as a software developer</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul7oss&label=Profile%20views&color=0e75b6&style=flat" alt="abdul7oss" /> </p>
 
